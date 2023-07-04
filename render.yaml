@@ -1,7 +1,5 @@
 services:
   - type: web
-    name: Nebula
+    name: 3kh0
     env: static
-    repo: https://github.com/Dominato014/Nebula.git
-    branch: main
-    healthCheckPath: /
+    staticPublishPath: public
