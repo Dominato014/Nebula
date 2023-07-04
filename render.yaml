@@ -1,7 +1,7 @@
 services:
   - type: web
     name: Nebula
-    env: docker
+    env: static
     repo: https://github.com/Dominato014/Nebula.git
     region: oregon
     plan: free
