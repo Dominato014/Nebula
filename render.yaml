@@ -3,8 +3,6 @@ services:
     name: Nebula
     env: static
     repo: https://github.com/Dominato014/Nebula.git
-    region: oregon
     plan: free
     branch: main
-    numInstances: 1
     healthCheckPath: /
