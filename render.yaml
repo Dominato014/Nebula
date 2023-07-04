@@ -3,6 +3,5 @@ services:
     name: Nebula
     env: static
     repo: https://github.com/Dominato014/Nebula.git
-    plan: free
     branch: main
     healthCheckPath: /
